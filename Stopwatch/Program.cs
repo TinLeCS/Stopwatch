@@ -10,6 +10,7 @@ namespace Stopwatch
     {
         static void Main(string[] args)
         {
+            Stopwatch.Run();
         }
     }
 }
